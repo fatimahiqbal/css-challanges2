@@ -1,0 +1,126 @@
+body{
+    text-align:center;
+}
+content-wrapper{
+    width:570px;
+}
+body{
+    font-family:'Roboto',sans-serif;
+}
+h1{
+    font-size:80px;
+    font-weight:normal;
+    margin-top:0;
+}
+
+h2{
+    font-size:60px;
+    font-weight:normal;
+    margin-top:20px;
+    margin-bottom:0;
+    border-top:1px solid #c4c4c4;
+    border-bottom:1px solid #c4c4c4;
+    padding-top:10px;
+    padding-bottom :10px;
+    margin-top:0px;
+    margin-bottom:20px;
+    display:inline-block;
+}
+h3{
+    font-size:30px;
+    font-weight:bold;
+    margin-top:20px;
+    margin-bottom:10px;
+    
+
+}
+img.circular{
+    border-radius:50%;
+}
+body{
+    font-size:21px
+}
+.small-text{
+    font-size:16px;
+}
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+.bold-text {
+    display: block; 
+    font-weight: bold; 
+}
+
+.custom-link {
+    color: #99D930; 
+}
+
+.custom-link:hover {
+    color: #131313; 
+}
+.content-wrapper {
+    padding: 100px 0;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color:#252525;
+    color:#fff;
+}
+
+.about-me {
+    background-color:#D7D7D7; 
+}
+
+.articles {
+    background-color: #252525;
+    color:#fff;
+}
+
+.bold-text {
+    font-weight: bold;
+    color:#99d930;
+    font-weight:900;
+}
+.fatima{
+    color:#99d930; 
+}
+
+.continue-reading {
+    color: #99D930; 
+}
+
+.continue-reading:hover {
+    color: #131313; 
+}
+.button{
+    display:inline-block;
+    padding:10px 20px;
+    text-decoration:none;
+    color:#252525;
+    background-color:#99D930;
+    border:none;
+    border-radius:1px;
+    cursor:pointer;
+}
+.button:hover{
+    color:#fff;
+    background-color:#252525;
+}
+.article .button:hover{
+    background-color:#fff;
+    color:#252525;
+}
+
+
+
+
